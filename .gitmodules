@@ -1,0 +1,6 @@
+[submodule "remote-serial-server"]
+	path = remote-serial-server
+	url = https://github.com/greggg-rgb/remote-serial-server.git
+[submodule "remote-serial-client"]
+	path = remote-serial-client
+	url = https://github.com/greggg-rgb/remote-serial-client.git
