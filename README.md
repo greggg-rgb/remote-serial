@@ -1,5 +1,6 @@
 # remote-serial
-Simple server and client scripts to route a Serial port through LAN. Works for me
+Simple server and client scripts to route a Serial port through LAN. Needed a simple, free script to have a remote workstation accessing the COM ports from an on-field laptop.
+Works for me.
 
 Server usage example:
 
